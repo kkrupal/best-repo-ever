@@ -1,3 +1,3 @@
 # best-repo-ever
 
-Making some changes
+Making some changes to create conflict 2.
